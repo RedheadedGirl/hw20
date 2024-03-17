@@ -1,12 +1,12 @@
-package ru.sbrf.demo.endpoint;
+package ru.sbrf.part1.endpoint;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import ru.sbrf.demo.dto.Response;
-import ru.sbrf.demo.service.UrlGettingService;
+import ru.sbrf.part1.dto.Response;
+import ru.sbrf.part1.service.UrlGettingService;
 
 import java.util.Optional;
 

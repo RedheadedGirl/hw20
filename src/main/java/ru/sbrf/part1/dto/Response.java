@@ -1,4 +1,4 @@
-package ru.sbrf.demo.dto;
+package ru.sbrf.part1.dto;
 
 import lombok.Value;
 import org.springframework.http.HttpStatus;

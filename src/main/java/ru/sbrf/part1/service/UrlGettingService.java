@@ -1,8 +1,8 @@
-package ru.sbrf.demo.service;
+package ru.sbrf.part1.service;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
-import ru.sbrf.demo.dto.Response;
+import ru.sbrf.part1.dto.Response;
 
 import java.io.BufferedReader;
 import java.io.IOException;
